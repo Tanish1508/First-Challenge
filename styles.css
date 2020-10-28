@@ -1,0 +1,196 @@
+body  {
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  width: 33%;
+  color: #4C194C;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.h3 {
+  width: 40%;
+  position: relative;
+  bottom: 16px;
+  color: #808080;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.first {
+  position: absolute;
+  left: 600px;
+  top: 30px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 400px;
+  background-color: #FFE5FF;
+  font-size: 15px;
+
+}
+
+.reviews {
+  position: relative;
+  bottom: 3px;
+  left: 10px;
+  color: #4C194C;
+  font-weight: 700;
+
+}
+
+.second {
+  position: absolute;
+  left: 650px;
+  top: 100px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 400px;
+  background-color: #FFE5FF;
+  font-size: 15px;
+}
+
+.report {
+  position: relative;
+  bottom: 3px;
+  left: 10px;
+  color: #4C194C;
+  font-weight: 700;
+
+}
+
+.third {
+  position: absolute;
+  left: 700px;
+  top: 170px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 400px;
+  background-color: #FFE5FF;
+  font-size: 15px;
+}
+
+.bestTech {
+  font-weight: 700;
+}
+
+.colton {
+  background-color: #4C194C;
+  width: 30%;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-left: 15px;
+  max-height: 210px;
+}
+
+.colton-image {
+  border-radius: 50px;
+}
+
+.name-1 {
+  position: relative;
+  left: 120px;
+  bottom: 90px;
+  color: White;
+  font-weight: 700;
+
+}
+
+.verified-1 {
+  position: relative;
+  left: 120px;
+  font-size: 15px;
+  bottom: 100px;
+  color: #E533E5;
+}
+
+.colton-d {
+  width: 95%;
+  font-size: 15px;
+  position: relative;
+  bottom: 60px;
+  color: White;
+}
+
+
+
+.irene {
+  width: 30%;
+  background-color: #4C194C;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-left: 15px;
+  max-height: 210px;
+  position: relative;
+  left: 425px;
+  bottom: 210px;
+
+}
+
+.irene-image {
+  border-radius: 50px;
+}
+
+.name-2  {
+  font-weight: 700;
+  position: relative;
+  left: 120px;
+  bottom: 90px;
+  color: White;
+
+}
+
+.verified-2 {
+  position: relative;
+  left: 120px;
+  bottom: 100px;
+  color: #E533E5;
+}
+
+.irene-d {
+  position: relative;
+  bottom: 60px;
+  width: 95%;
+  font-size: 15px;
+  color: White;
+}
+
+.anne {
+  width: 30%;
+  background-color: #4C194C;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-left: 15px;
+  max-height: 210px;
+  position: relative;
+  left: 850px;
+  bottom: 420px;
+}
+
+.anne-image {
+  border-radius: 50px;
+}
+
+.name-3 {
+    font-weight: 700;
+    color: White;
+    position: relative;
+    left: 120px;
+    bottom: 90px;
+}
+
+.verified-3 {
+  position: relative;
+  left: 120px;
+  bottom: 100px;
+  color: #E533E5;
+}
+
+.anne-d {
+  position: relative;
+  bottom: 60px;
+  width: 95%;
+  font-size: 15px;
+  color: White;
+
+}
